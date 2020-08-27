@@ -1,0 +1,19 @@
+.Purches-btn{
+    background-color: goldenrod;
+    width: 200px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.cart-course{
+    border-bottom: 1px solid lightcyan;
+    margin-bottom: 20px;
+}
+.enroll{
+    color: #EF642F;
+}
+.cart-img p{
+    height: 50px;
+    width: 50px;
+}

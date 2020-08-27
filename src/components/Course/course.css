@@ -1,0 +1,17 @@
+.course-container{
+    display: flex;
+}
+.course{
+    width: 70%;
+   
+    margin-right: 25px;
+    /* border-right: 1px solid lightgray; */
+}
+.banner-down-text{
+    border-bottom: 1px solid lightgray;
+    margin: 50px;
+    width: 70%;
+}
+.banner-down-text h3{
+    color: #EF642F;
+}
